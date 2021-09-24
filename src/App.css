@@ -13,6 +13,16 @@
   }
 }
 
+.productContainer{
+  display: flex;
+}
+.minus{
+  margin-right: 10px;
+  padding: 10px;
+}
+.plus{
+  padding: 10px;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
